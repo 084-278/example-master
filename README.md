@@ -1,1 +1,2 @@
-# sy6
+- 增加了一个新指标invoke_count，记录Fibonacci函数被调用了多少次。
+  - Fib函数调用时指标自增
